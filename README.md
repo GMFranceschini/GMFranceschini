@@ -6,7 +6,9 @@ I trained as a biotechnologist and quantitative biology, and I thrive between R,
 Sometimes I tweet interesting stuff [here](https://twitter.com/GMFranceschini), and here's my [website](https://gmfranceschini.github.io/)! 
 
 🔭 I’m currently working on DNA methylation patterns in cancer 
+
 🌱 I’m currently learning how to apply statistical techniques to complex biological problems
+
 💬 Always up for a chat about science, or anything else interesting!
 
 <!--
