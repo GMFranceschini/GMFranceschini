@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=GMFranceschini)
+
 You can call me Gian. I am a PhD candidate in computational biology, interested in cancer epigenetics and method development.
 I trained as a biotechnologist and quantitative biology, and I thrive between R, Python and the Unix terminal.
 
