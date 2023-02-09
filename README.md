@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GMFranceschini)
 
-You can call me Gian. I am a PhD candidate in computational biology, interested in cancer epigenetics and method development.
+You can call me Gian. I am a post-doctoral researcher in computational biology, interested in cancer epigenetics and method development.
 I trained as a biotechnologist and quantitative biology, and I thrive between R, Python and the Unix terminal.
 
 Sometimes I tweet interesting stuff [here](https://twitter.com/GMFranceschini), and here's my [website](https://gmfranceschini.github.io/)! 
