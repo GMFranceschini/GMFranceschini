@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=GMFranceschini)
 
-You can call me Gian. I am a post-doctoral researcher in computational biology, interested in cancer epigenetics and method development.
+I am Gian, a post-doctoral researcher in computational biology, interested in cancer epigenetics and method development.
 I trained as a biotechnologist and quantitative biology, and I thrive between R, Python and the Unix terminal.
 
 Sometimes I tweet interesting stuff [here](https://twitter.com/GMFranceschini), and here's my [website](https://gmfranceschini.github.io/)! 
 
-🔭 I’m currently working on DNA methylation patterns in cancer 
+🔭 I’m currently working on DNA methylation patterns in cancer, with special focus on cell-free DNA applications.
 
 🌱 I’m currently learning how to apply statistical techniques to complex biological problems
 
