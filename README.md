@@ -5,7 +5,7 @@
 I am Gian, a post-doctoral researcher in computational biology, interested in cancer epigenetics and method development.
 I trained as a biotechnologist and quantitative biology, and I thrive between R, Python and the Unix terminal.
 
-Sometimes I tweet interesting stuff [here](https://twitter.com/GMFranceschini), and here's my [website](https://gmfranceschini.github.io/)
+Sometimes I tweet interesting stuff [here](https://twitter.com/GMFranceschini), and here's my [website](https://gmfranceschini.simple.ink/)
 
 🔭 I’m currently working on DNA methylation patterns in cancer, with special focus on cell-free DNA applications.
 
