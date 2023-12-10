@@ -7,12 +7,6 @@ I trained as a biotechnologist and quantitative biologist, and I thrive between 
 
 Sometimes I tweet interesting stuff [here](https://twitter.com/GMFranceschini), and here's my [website](https://gmfranceschini.simple.ink/)
 
-🔭 I’m currently working on DNA methylation patterns in cancer, with special focus on cell-free DNA applications.
-
-🌱 I’m interested in the application of statistical and machine-learning techniques to complex biological problems
-
-
-
 <!--
 **GMFranceschini/GMFranceschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
